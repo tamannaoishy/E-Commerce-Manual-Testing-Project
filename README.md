@@ -33,3 +33,5 @@ See `/screenshots` folder for bug visuals.
 - Applied industry-standard validation logic
 - Improved defect documentation and severity analysis
 - Practiced real-life QA flow from test planning to reporting
+  
+This project was designed for practice and portfolio purposes using a publicly available demo website.
