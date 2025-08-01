@@ -10,10 +10,9 @@ Tested functionalities:
 - Input Validation (Email, Phone, Date, Address)
 
 ## 📄 Deliverables
-- ✅ Test Plan
 - ✅ 12+ Test Cases (with Pass/Fail status)
 - ✅ Bug Report (with severity, type, and steps)
-- ✅ Clarification Log (to document ambiguous behaviors)
+
 
 ## 🧰 Tools Used
 - Google Chrome
